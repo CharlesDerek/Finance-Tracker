@@ -1,3 +1,11 @@
+Last between 158 and 159
+
+Successfully lauched welcome page, pushed repository to github, deployed to heroku
+
+unsuccessful at showing deployed heroku app
+
+heroku logs might help and reading further at end of 158
+
 This is the finance tracker app
 
 == README
