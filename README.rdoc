@@ -1,5 +1,7 @@
 Last between 158 and 159
 
+rails s -b $IP -p $PORT
+
 Successfully lauched welcome page, pushed repository to github, deployed to heroku
 
 unsuccessful at showing deployed heroku app
